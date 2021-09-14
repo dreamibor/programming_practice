@@ -2,7 +2,8 @@
 This is a repository about programming practice for LeetCode-like problems.
 
 ## Problem List
-There are some classic problems that you can't ignore, so I prepared a list of classic problems, and those problems are also the most frequent problems during the interviews of those big tech companies.
+There are some classic problems that you just can't ignore, so I prepared a list of classic problems.    
+Also, those problems are the most frequent problems for those big tech companies' interviews.
 
 Please check:
 [problem_list.md](problem_list.md)
