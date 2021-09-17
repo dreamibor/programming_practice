@@ -1,5 +1,5 @@
 # Programming Practice 编程实践
-This is a repository about programming practice for LeetCode-like problems.
+A repository of programming practice for LeetCode-like problems.
 
 ## Problem List
 There are some classic problems that you just can't ignore, so I prepared a list of classic problems.    
